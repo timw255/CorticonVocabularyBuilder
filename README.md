@@ -2,13 +2,10 @@
 
 Console application that generates Corticon Vocabulary files from .NET models.
 
-###View the demo on YouTube
-Watch quick a demonstration on YouTube (1:38): https://youtu.be/-0bri3K1xEc
-
 ###
 Configuration:
 
-You must set the paths to your Corticon_Home and Corticon_Work directories in the App.config
+You must set the paths to CORTICON_HOME and CORTICON_WORK_DIR in the App.config
 
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
