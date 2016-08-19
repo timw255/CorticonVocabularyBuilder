@@ -29,13 +29,13 @@ Usage:
 To include all namespaces in the assembly:
 
 ```shell
-cvbuilder generate -f \<pathtoyourdll\> -o \<directorytosaveoutput\>
+cvbuilder generate -f <pathtoyourdll> -o <directorytosaveoutput>
 ```
 
 To include a selection of namespaces in the assembly:
 
 ```shell
-cvbuilder generate -f \<pathtoyourdll\> -o \<directorytosaveoutput\> -n \<somenamespace\> \<somenamespace\>
+cvbuilder generate -f <pathtoyourdll> -o <directorytosaveoutput> -n <somenamespace> <somenamespace>
 ```
 
 _An example model is included as the SampleModel project._
