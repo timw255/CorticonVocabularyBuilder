@@ -2,6 +2,9 @@
 
 Console application that generates Corticon Vocabulary files from .NET models.
 
+###View the demo on YouTube
+Watch quick a demonstration on YouTube (:33): https://youtu.be/1Dqf3n2iwIg
+
 ###
 Configuration:
 
